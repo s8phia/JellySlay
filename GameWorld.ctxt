@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\ ------INSTRUCTIONS\r\n\ Fairyland\ has\ been\ infested\ with\ jellies\ (green\ slimes)\ and\ your\ job\ is\ to\ slay\ as\ many\ \r\n\ jellies\ as\ you\ can.\ To\ move,\ use\ WASD\ keys\ and\ to\ shoot,\ press\ space.\ One\ space\ or\ shot\r\n\ is\ equal\ to\ one\ dmg.\ The\ slime\ has\ 2\ hp,\ so\ you'll\ need\ to\ shoot\ twice.\ The\r\n\ Player\ has\ 6\ hearts\ and\ if\ one\ slime\ touches\ you,\ one\ heart\ will\ be\ taken\ away.\ To\ collect\ \r\n\ the\ silver\ energy\ you\ see\ spawning\ on\ the\ ground,\ use\ the\ WASD\ to\ move\ and\ once\ you\ touch\ the\ \r\n\ energy,\ you\ will\ automatically\ collect\ them\ (energy\ bar\ will\ go\ up).\ Collecting\ three\r\n\ energies\ will\ unleash\ an\ ultimate.\ To\ go\ to\ shop,\ press\ "p".\ \r\n\ \r\n\ Have\ Fun\!\r\n\ \r\n\ -------CREDITS\r\n\ \r\n\ -----code-----\r\n\ Ultimate\ projectile\ \=\ Tanner\ Crow\ on\ Youtube\r\n\ Shop\ World\ +\ greenfoot\ music\ \=\ Jordan\ Cohen\ 35\ minute\ shooter\ ver4\r\n\ Spawning\ slimes\ \=\ mrligocki\ on\ youtube\r\n\ \r\n\ ----graphics-----\r\n\ player\ \=\ by\ Immunity\ on\ itch.io\ (https\://immunitys.itch.io/pixel-top-down-character)\r\n\ slimes\ \=\ by\ bacteri\ on\ itch.io\ (https\://bacteri.itch.io/slime-pack-anmations)\r\n\ GameWorld\ background\ \=\ by\ aku-jpkg\ on\ itch.io,\ tinted\ pink\ by\ me\ (https\://aku-jpkg.itch.io/rpg-grassland-tileset)\r\n\ All\ audio\ used\ \=\ Omori\ official\ soundtrack\r\n\ Silver\ energy\ \=\ Daniel\ Chilonzi\ on\ RindPNG\ (https\://www.kindpng.com/imgv/Jhmmib_lightning-bolt-png-pixel-lightning-pixel-art-transparent/)\r\n\ Energy\ bar\ \=\ vecteezy.com\ (https\://www.vecteezy.com/vector-art/4829250-energy-bar-in-pixel-art-style)\r\n\ speed\ potion\ \=\ http\://pixelartmaker.com/art/dd2caa5bf397e44\r\n\ heart\ potion\ \=\ craftChloe23\ on\ redBubble\r\n\ Instruct\ World\ bg\ \=\ designed\ by\ me\r\n\ arrow\ \=\ by\ me\r\n\ red\ splat\ \=\ by\ Alabaster99\ on\ reddit\ (https\://www.reddit.com/r/PixelArt/comments/qfrpda/inktober_day_25_splat/)\r\n\ Shop\ icon\ \=\ by\ V\ O\ R\ T\ E\ X\ on\ adobe\ (https\://stock.adobe.com/search?k\=8+bit+shopping+cart&asset_id\=526917681)\r\n\ Welcome\ world\ background\ \=\ by\ Grabrela\ on\ PIXILART\ (https\://www.pixilart.com/art/magic-castle-b7915f03f7239a4)\r\n\ Shop\ background\ \=\ by\ Mann\ on\ gifer\ (https\://gifer.com/en/3Mev)\r\n\ endworld\ bg\ \=\ designed\ by\ me\r\n\ heart\ icon\ \=\ from\ PNGITEM\ (https\://www.pngitem.com/middle/hmibbwx_pink-pixel-heart-png-transparent-png/)\r\n
+comment1.params=
+comment1.target=GameWorld()
+comment10.params=
+comment10.target=void\ stopped()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawnSlime()
+comment4.params=
+comment4.target=void\ spawnEnergy()
+comment5.params=
+comment5.target=void\ spawnTrap()
+comment6.params=
+comment6.target=Player\ getPlayer()
+comment7.params=
+comment7.target=void\ addHeart()
+comment8.params=
+comment8.target=void\ upgradeSpeed()
+comment9.params=
+comment9.target=void\ started()
+numComments=11

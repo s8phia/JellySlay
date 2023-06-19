@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShopWorld
+comment1.params=gameWorld\ counter
+comment1.target=ShopWorld(GameWorld,\ Counter)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

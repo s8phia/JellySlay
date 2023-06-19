@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Slime
+comment1.params=counter
+comment1.target=Slime(Counter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animateSlimeWalk()
+comment4.params=
+comment4.target=void\ chasePlayer()
+comment5.params=
+comment5.target=void\ hitByProjectile()
+numComments=6
